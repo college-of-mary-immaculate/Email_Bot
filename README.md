@@ -11,10 +11,12 @@ To use Email_Reminder.py, you need to install the following APIs or import funct
 Install these APIs in your chosen programming IDE or via CMD (Command Prompt):
 
 pip install pandas — A package for data analysis and manipulation.
+
 pip install python-dotenv — A powerful tool that simplifies handling environment variables in Python applications.
+
 pip install openpyxl — A Python library for reading and writing Excel files (extensions like xlsx, xlsm, xltx, xltm).
 
-#How To Use ✏️
+# How To Use ✏️
 1. Download the folder containing the code. A zip file will be downloaded to your device; extract it to access the contents, including the Python Email Reminder file, requirements.txt, Excel file, and an ENV file. (Create your own ENV file with your email login credentials.)
 2. Install the required libraries via your programming IDE's terminal:
 pip install -r requirements.txt
