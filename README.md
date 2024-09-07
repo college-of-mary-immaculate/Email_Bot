@@ -3,6 +3,7 @@ Email_Bot is a program that automatically sends payment reminder emails to custo
 
 # Contributors 👯
 Bracia, Genniesys H.
+
 Galvez, Raecell Ann D.
 
 # Requirements 📝
